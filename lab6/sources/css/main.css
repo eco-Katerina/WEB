@@ -1,0 +1,28 @@
+footer {
+    padding: 10px;
+    text-align: center;
+    background: yellow;
+    margin-top: 10px;
+}
+
+.menu a {
+   color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.block {
+    background-color: yellow;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+  
